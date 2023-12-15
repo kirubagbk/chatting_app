@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537850001579",
+    "project_id": "firease-web",
+    "storage_bucket": "firease-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537850001579:android:a3eed489e32aa0bf3b5fee",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMw12SdNXxtE9yeuQFkLdhskUDori0j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
